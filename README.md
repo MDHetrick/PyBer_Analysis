@@ -9,11 +9,8 @@ The purpose of this analysis is to compare ride-sharing across city types. Urban
 - Code Document: PyBer_Challenge.ipynb
 
 ## Results
-There were several differences between the different city types.
+There were several differences between the different city types. A summary of the data by city type is shown below:
 ![Image](https://github.com/MDHetrick/PyBer_Analysis/blob/main/analysis/PyBer_summary.png)
-
-The results of each city type's average fare for the first four months of the year was graphed.
-![Image](https://github.com/MDHetrick/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 #### Rural
 - Rural city types had lower numbers of drivers, total rides, and total fares.
@@ -23,6 +20,10 @@ The results of each city type's average fare for the first four months of the ye
 #### Urban
 - Urban city types had the highest number of drivers, total rides, and total fares.
 - Urban city types had the highest average fares per ride and average fare per driver.
+
+
+The results of each city type's average fare for the first four months of the year was also graphed.
+![Image](https://github.com/MDHetrick/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
 Based on the analysis, we recommend the following to address disparities among city types:
